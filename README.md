@@ -5,20 +5,18 @@
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
-[![TestMu AI](https://img.shields.io/badge/TestMu%20AI-Formerly%20LambdaTest-blue)](https://www.testmuai.com/)
-[![Selenium](https://img.shields.io/badge/Selenium-Testing-green)](https://www.testmuai.com/)
 
-If you want to add custom metadata to automation tests in Python-selenium on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can follow the steps below. You can refer to sample test repo [here](https://github.com/LambdaTest/pytest-selenium-sample).
+If you want to add custom metadata to automation tests in Python-selenium on TestMu AI (Formerly LambdaTest), you can follow the steps below. You can refer to sample test repo [here](https://github.com/LambdaTest/pytest-selenium-sample).
 
 
-## Getting Started with TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Getting Started with TestMu AI (Formerly LambdaTest)
 
-TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is an AI-native, multi-agent quality engineering platform for running Selenium, Playwright, Cypress, Appium, and more at scale across 3000+ real browsers and OS combinations.
+TestMu AI (Formerly LambdaTest) is an AI-native, multi-agent quality engineering platform for running Selenium, Playwright, Cypress, Appium, and more at scale across 3000+ real browsers and OS combinations.
 
 [Sign up for free](https://accounts.testmuai.com/register) · [Docs](https://www.testmuai.com/support/docs/)
 
 # Steps
-With TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can add custom meta data to automation tests. These are added for tests by setting the data in `customData` capability. The code below illustrates the usage:
+With TestMu AI (Formerly LambdaTest), you can add custom meta data to automation tests. These are added for tests by setting the data in `customData` capability. The code below illustrates the usage:
 
 ```python
 desired_caps = {
@@ -47,15 +45,15 @@ desired_caps = {
 python lambdatest.py
 ```
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
